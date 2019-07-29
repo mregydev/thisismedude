@@ -2,6 +2,20 @@
 
 My name is alaa hamed abdelhamed and my nickname is mregydev :)
 
+### Q. What frameworks and libraries have you used in Nodejs ? 
+
+Main things I am using during work are Expressjs , Mongoose , sequlizejs , mocha , sinon and chai 
+
+
+### Q. What do  you use as source control ? 
+
+github and tfs
+
+
+### Q. What do  you use for CI ? 
+
+circleci
+
 
 ### Q- What is your knowledge of javascript ? 
 
