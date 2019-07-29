@@ -28,7 +28,7 @@ Mosttly fs, buffer , path , stream and child process
 
 Readable , Writeable and transform strean 
 
-Please review this (sample)[https://github.com/mregydev/htmlIndexer] for transform stream
+Please review this [sample](https://github.com/mregydev/htmlIndexer) for transform stream
 
 ### Q- What is your knowledge of javascript ? 
 
