@@ -16,6 +16,13 @@ github and tfs
 
 circleci
 
+### Q. What do  you use for e2e test ? 
+
+test cafe
+
+### Q. What core things you know and use in nodejs ? 
+
+Mosttly fs, buffer , path , stream and child process
 
 ### Q- What is your knowledge of javascript ? 
 
