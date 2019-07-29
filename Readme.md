@@ -24,6 +24,12 @@ test cafe
 
 Mosttly fs, buffer , path , stream and child process
 
+### Q. What types of streams you have worked with? 
+
+Readable , Writeable and transform strean 
+
+Please review this (sample)[https://github.com/mregydev/htmlIndexer] for transform stream
+
 ### Q- What is your knowledge of javascript ? 
 
 I have good knowledge of javascript es6 and have written it in different module  formats inlcuding es , cjs and umd and also have good knowledge of typescript 
